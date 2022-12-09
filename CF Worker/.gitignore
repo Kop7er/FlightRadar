@@ -1,0 +1,5 @@
+# Build wrangler
+build/
+
+# Dependency directories
+node_modules/
